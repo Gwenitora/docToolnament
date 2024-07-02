@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1d12bfe0">
+        <description>Created after removal of "GET" from Instance Name</description>
+        <accepts>GET.html</accepts>
+    </rule>
+    <rule id="65a9e8e5">
+        <description>Created after removal of "POST" from Instance Name</description>
+        <accepts>POST.html</accepts>
+    </rule>
+    <rule id="3324e541">
+        <description>Created after removal of "PUT" from Instance Name</description>
+        <accepts>PUT.html</accepts>
+    </rule>
+</rules>
