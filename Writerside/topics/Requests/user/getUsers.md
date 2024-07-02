@@ -1,4 +1,4 @@
-## Get user `POST` `/users/:id`
+## Get user `GET` `/users/:id`
 Command à executer pour récupérer un token de connection
 
 <chapter title="CAN USE COMMAND">

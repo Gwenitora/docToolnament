@@ -1,0 +1,1 @@
+## Get team `GET` `/teams/:id`

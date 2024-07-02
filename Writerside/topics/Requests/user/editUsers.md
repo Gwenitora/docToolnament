@@ -1,4 +1,4 @@
-## Edit user `POST` `/user/edit`
+## Edit user `PUT` `/user/edit`
 Command pour editer sont propre profil
 
 <chapter title="CAN USE COMMAND">

@@ -1,0 +1,1 @@
+## Quit team `DELETE` `/:id/teams/:idTeam/quit`

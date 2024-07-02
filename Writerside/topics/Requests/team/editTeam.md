@@ -1,0 +1,1 @@
+## Edit team `PUT` `/teams/:id/edit`

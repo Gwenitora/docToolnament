@@ -1,0 +1,1 @@
+## Join team `POST` `/:id/teams/:idTeam/join`

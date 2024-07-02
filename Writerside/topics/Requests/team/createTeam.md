@@ -1,0 +1,1 @@
+## Create team `POST` `/teams/new`
