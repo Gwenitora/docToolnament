@@ -1,5 +1,5 @@
 ## Get team `GET` `/teams/:id`
-Commande pour modifier une équipe existante
+Commande pour récupérer la liste des teams ("all"), ou 1 team spécifique avec son id
 
 <chapter title="CAN USE COMMAND">
 <p>
@@ -47,6 +47,8 @@ Commande pour modifier une équipe existante
 <code-block xml:lang="json" xml:space="preserve">
 {
     "name": "",
+    "logo": "",
+    "team_picture": "",
     "tag": "",
     "game": 0,
     "colors": [
@@ -56,13 +58,30 @@ Commande pour modifier une équipe existante
         "#ffffff",
         "#ffffff00"
     ],
-    "description": ""
+    "description": "",
+    "players": {
+        "id": 0,
+        "pseudo": "",
+        "profil_picture": "",
+        "status": ""
+    }
 }
 </code-block>
     </tab>
     <tab title="Json Min" group-key="jsonmin">
 <code-block xml:lang="json" xml:space="preserve">
-{}
+{
+    "name": "",
+    "tag": "",
+    "game": 0,
+    "colors": [],
+    "description": "",
+    "players": {
+        "id": 0,
+        "pseudo": "",
+        "status": ""
+    }
+}
 </code-block>
     </tab>
 </tabs>
