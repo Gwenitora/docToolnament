@@ -30,7 +30,7 @@ Commande pour créer une équipe
         <td>game</td><td>number</td><td>L'id du jeu de l'équipe dans la bdd</td><td></td><td></td>
     </tr>
     <tr>
-        <td>colors</td><td>(string | number)[ ]</td><td>La liste des couleurs représantant l'équipe</td><td>true</td><td>[ ]</td>
+        <td>colors</td><td><a href="Types.md#colors">colorsTemplate</a>[ ]</td><td>La liste des couleurs représantant l'équipe</td><td>true</td><td>[ ]</td>
     </tr>
     <tr>
         <td>description</td><td>string</td><td>Description de l'équipe en markdown</td><td>true</td><td></td>

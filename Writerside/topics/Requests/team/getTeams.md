@@ -33,13 +33,13 @@ Commande pour modifier une équipe existante
         <td>game_id</td><td>number</td><td>L'id du jeu de l'équipe dans la bdd</td><td></td>
     </tr>
     <tr>
-        <td>colors</td><td><a href="Types.md#colors">colorsTemplate[ ]</a></td><td>La liste des couleurs représantant l'équipe</td><td></td>
+        <td>colors</td><td><a href="Types.md#colors">colorsTemplate</a>[ ]</td><td>La liste des couleurs représantant l'équipe</td><td></td>
     </tr>
     <tr>
         <td>description</td><td>string</td><td>Description de l'équipe en markdown</td><td></td>
     </tr>
     <tr>
-        <td>players</td><td><a href="Types.md#playersinforeduce">PlayersInfoReduce[ ]</a></td><td>Liste tout les joueurs de l'équipe (avec quelque datas comme si tu avais fait la commande <a href="User.md#get-user-get-users-id"></a>)</td><td></td>
+        <td>players</td><td><a href="Types.md#playersinforeduce">PlayersInfoReduce</a>[ ]</td><td>Liste tout les joueurs de l'équipe (avec quelque datas comme si tu avais fait la commande <a href="User.md#get-user-get-users-id"></a>)</td><td></td>
     </tr>
 </table>
     </tab>
